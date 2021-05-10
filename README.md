@@ -5,7 +5,7 @@ Basic tweet downloader with tweepy using the twitter API (configured to work wit
 ## Installation
 
 * Create a virtual env
-* Run ```pip install -r requirements```
+* Run ```pip install -r requirements.txt```
 * Create and .env file with your API credentials
 
 ## Usage

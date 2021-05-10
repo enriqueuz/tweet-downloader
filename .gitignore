@@ -1,8 +1,4 @@
 .env
 __pycache__/
-<<<<<<< HEAD
 *.txt
 !requirements.txt
-=======
-*.txt
->>>>>>> aea3dd3db43e08c3215a37164d23a4b7d43c908e
