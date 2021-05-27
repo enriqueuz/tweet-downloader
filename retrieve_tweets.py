@@ -6,7 +6,6 @@ def retrieve_tweets(query, tweets_number):
     auth.set_access_token(credentials.ACCESS_TOKEN, credentials.ACCESS_TOKEN_SECRET)
 
     api = tweepy.API(auth)
-
     query = query.strip().lower()
     filename = query.replace(" ", "_") + '.txt'
 
